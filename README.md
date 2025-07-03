@@ -52,7 +52,7 @@ Your answer content goes here.
 ## ⚙️ Settings Panel
 
 After activating the plugin, go to:  
-**WordPress Dashboard → Settings → ultra FAQ Plugin Settings**
+**WordPress Dashboard > Settings > ultra FAQ Plugin Settings**
 
 Here you can customize the behavior and appearance of your FAQ toggle boxes globally.
 
