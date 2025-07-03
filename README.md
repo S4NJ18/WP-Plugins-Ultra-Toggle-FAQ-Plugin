@@ -96,8 +96,14 @@ Fork the repository, make your changes, and submit a pull request.
 
 Email: sanjib90511@gmail.com
 ---
+## 📸 Settings Panel Preview
 
-## Screenshot
-![Screenshot1] (screenshot/Screenshot-1.PNG)
-![Screenshot2] (screenshot/Screenshot-2.PNG)
+### 1️⃣ Front-End View
+
+![Front_End Screenshot](screenshot/Screenshot-1.PNG)
+
+### 2️⃣ Settings
+
+![Settings Panel Screenshot](screenshot/Screenshot-2.PNG)
+
 
